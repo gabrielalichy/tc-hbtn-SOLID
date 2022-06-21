@@ -8,7 +8,7 @@ public class Name {
 
     public List<Testcase> findAllTestcasesByUser{};
 
-    public List <Account> AccountList;
+    public List<Account> AccountList;
 
     public void deleteUser(Name.User user){};
 
